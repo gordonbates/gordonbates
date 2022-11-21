@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gordon Bates
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning full stack frameworks
-- 💞️ I’m looking to collaborate on small projects
+- 🕵️ I’m looking to collaborate on small projects
 - 📫 How to reach me? gordon_bates on Instagram
 
 <!---
